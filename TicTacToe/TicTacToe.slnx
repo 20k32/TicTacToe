@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../Core/Core.csproj" Id="deea653e-e37e-4a19-be11-9061e3c83b17" />
+  <Project Path="../Presentation/Presentation.csproj" Id="f742eee1-3953-4502-8626-4f3302444b84" />
+  <Project Path="TicTacToe.csproj" />
+<Project Path="../Models/Models.csproj" />
+</Solution>
